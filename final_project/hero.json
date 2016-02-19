@@ -1,0 +1,516 @@
+{
+	"heros" : [
+		{
+			"id":  266,	
+			"name": "Aatrox",
+			"position": ["top","jun"]
+		},{
+			"id": 103,
+			"name": "Ahri",
+			"position": ["mid"]
+		},{
+			"id":84,
+			"name":	"Akali",
+			"position": ["top","mid"]
+		},{
+			"id": 12,
+			"name": "Alistar",
+			"position": ["sup"]
+		},{
+			"id": 32,
+			"name": "Amumu",
+			"position": ["jun"]
+		},{
+			"id": 34,
+			"name": "Anivia",
+			"position": ["mid"]
+		},{
+			"id": 1,
+			"name": "Annie",
+			"position": ["sup" , "mid","top"]
+		},{
+			"id": 22,
+			"name": "Ashe",
+			"position": ["adc"]
+		},{
+			"id":268,
+			"name": "Azir",
+			"position": ["mid","top"]
+		},{
+			"id":432,
+			"name": "Bard",
+			"position": ["sup"]
+		},{
+			"id": 53,
+			"name": "Blitzcrank",
+			"position": ["sup"]
+		},{
+			"id": 63,
+			"name": "Brand",
+			"position": ["sup", "mid"]
+		},{
+			"id": 201,
+			"name": "Braum",
+			"position": ["sup"]
+		},{
+			"id": 51,
+			"name": "Caitlyn",
+			"position": ["adc"]
+		},{
+			"id":69,
+			"name": "Cassiopeia",
+			"position": ["mid"]
+		},{
+			"id": 31,
+			"name": "Cho&#039;Gath",
+			"position": ["top","mid","jun"]
+		},{
+			"id":42,
+			"name": "Corki",
+			"position": ["adc"]
+		},{
+			"id": 122,
+			"name": "Darius",
+			"position": ["top"]
+		},{
+			"id": 131,
+			"name": "Diana",
+			"position": ["jun","mid","top"]
+		},{
+			"id":36,
+			"name": "Dr. Mundo",
+			"position": ["top","jun"]
+		},{
+			"id": 119,
+			"name": "Draven",
+			"position": ["adc"]
+		},{
+			"id": 245,
+			"name": "Ekko",
+			"position": ["mid", "jun","top"]
+		},{
+			"id": 60,
+			"name": "Elise",
+			"position": ["jun"]
+		},{
+			"id": 28,
+			"name": "Evelynn",
+			"position": ["jun"]
+		},{
+			"id": 81,
+			"name": "Ezreal",
+			"position": ["adc"]
+		},{
+			"id": 9,
+			"name": "Fiddlesticks",
+			"position": ["jun","sup"]
+		},{
+			"id": 114,
+			"name": "Fiora",
+			"position": ["top"]
+		},{
+			"id": 105,
+			"name": "Fizz",
+			"position": ["mid","top","jun"]
+		},{
+			"id":3,
+			"name": "Galio",
+			"position": ["mid","top"]
+		},{
+			"id":41,
+			"name": "Gangplank",
+			"position": ["mid","top"]
+		},{
+			"id": 86,
+			"name": "Garen",
+			"position": ["top"]
+		},{
+			"id":150,
+			"name": "Gnar",
+			"position": ["top"]
+		},{
+			"id": 79,
+			"name": "Gragas",
+			"position": ["jun"]
+		},{
+			"id": 104,
+			"name": "Graves",
+			"position": ["adc","jun","mid"]
+		},{
+			"id":120,
+			"name": "Hecarim",
+			"position": ["top","jun"]
+		},{
+			"id": 74,
+			"name": "Heimerdinger",
+			"position": ["mid","top"]
+		},{
+			"id": 39,
+			"name": "Irelia",
+			"position": ["top"]
+		},{
+			"id": 40,
+			"name": "Janna",
+			"position": ["sup"]
+		},{
+			"id": 59,
+			"name": "Jarvan IV",
+			"position": ["jun","top"]
+		},{
+			"id": 24,
+			"name": "Jax",
+			"position": ["top","jun"]
+		},{
+			"id": 126,
+			"name": "Jayce",
+			"position": ["mid","top","adc"]
+		},{
+			"id": 222,
+			"name": "Jinx",
+			"position": ["adc"]
+		},{
+			"id": 429,
+			"name":	"Kalista",
+			"position": ["adc"]
+		},{
+			"id":43,
+			"name":"Karma",
+			"position": ["sup","mid"]
+		},{
+			"id": 30,
+			"name": "Karthus",
+			"position": ["mid"]
+		},{
+			"id": 38,
+			"name": "Kassadin",
+			"position": ["mid","top"]
+		},{
+			"id": 55,
+			"name": "Katarina",
+			"position": ["mid","top"]
+		},{
+			"id": 10,
+			"name": "Kayle",
+			"position": ["mid","top","jun"]
+		} ,{
+			"id": 85,
+			"name": "Kennen",
+			"position": ["sup","top","adc"]
+		},{
+			"id": 121,
+			"name": "Kha&#039;Zix",
+			"position": ["jun"]
+		},{
+			"id":203,
+			"name": "Kindred",
+			"position": ["jun","adc"]
+		},{
+			"id": 96,
+			"name": "Kog&#039;Maw",
+			"position": ["adc","mid"]
+		},{
+			"id": 7,
+			"name": "LeBlanc",
+			"position": ["mid","sup"]
+		},{
+			"id": 64,
+			"name": "Lee Sin",
+			"position": ["jun","top"]
+		},{
+			"id": 89,
+			"name": "Leona",
+			"position": ["sup"]
+		},{ 
+			"id": 127,
+			"name": "Lissandra",
+			"position": ["top","mid"]
+		},{
+			"id": 236,
+			"name": "Lucian",
+			"position": ["adc"]
+		},{
+			"id":117,
+			"name": "Lulu",
+			"position": ["sup","mid","top"]
+		},{
+			"id": 99,
+			"name": "Lux",
+			"position": ["mid","sup"]
+		},{
+			"id": 54,
+			"name": "Malphite",
+			"position": ["top","mid"]
+		},{
+			"id": 90,
+			"name": "Malzahar",
+			"position": ["mid"]
+		},{
+			"id": 57,
+			"name": "Maokai",
+			"position": ["top","sup"]
+		},{
+			"id": 11,
+			"name": "Master Yi",
+			"position": ["jun","top"]
+		},{
+			"id": 21,
+			"name": "Miss Fortune",
+			"position": ["adc"]
+		},{
+			"id": 82,
+			"name": "Mordekaiser",
+			"position": ["adc","top"]
+		},{
+			"id": 25,
+			"name": "Morgana",
+			"position": ["sup","mid"]
+		},{
+			"id": 267,
+			"name": "Nami",
+			"position": ["sup"]
+		},{
+			"id": 75,
+			"name": "Nasus",
+			"position": ["top","jun"]
+		},{
+			"id": 111,
+			"name": "Nautilus",
+			"position": ["sup","top","jun"]
+		},{
+			"id": 76,
+			"name": "Nidalee",
+			"position": ["jun"]
+		},{
+			"id": 56,
+			"name": "Nocturne",
+			"position": ["jun"]
+		},{
+			"id": 20,
+			"name": "Nunu",
+			"position": ["jun"]
+		},{
+			"id": 2,
+			"name": "Olaf",
+			"position": ["top"]
+		},{
+			"id": 61,
+			"name": "Orianna",
+			"position": ["mid"]
+		},{ 
+			"id": 80,
+			"name": "Pantheon",
+			"position": ["jun","top"]
+		},{
+			"id": 78,
+			"name": "Poppy",
+			"position": ["top","jun"]
+		},{
+			"id": 133,
+			"name": "Quinn",
+			"position": ["adc","top"]
+		},{
+			"id": 33,
+			"name": "Rammus",
+			"position": ["jun"]
+		},{
+			"id": 421,
+			"name": "Rek&#039;Sai",
+			"position": ["jun"]
+		},{
+			"id": 58,
+			"name": "Renekton",
+			"position": ["top"]
+		},{
+			"id": 107,
+			"name": "Renger",
+			"position": ["jun","top"]
+		},{
+			"id": 92,
+			"name": "Riven",
+			"position": ["top","mid"]
+		},{
+			"id":68,
+			"name": "Rumble",
+			"position": ["top"]
+		},{
+			"id": 13,
+			"name": "Ryze",
+			"position": ["top" , "mid"]
+		},{
+			"id": 113,
+			"name": "Sejuani",
+			"position": ["jun"]
+		},{
+			"id":35, 
+			"name": "Shaco",
+			"position": ["jun","sup"]
+		},{
+			"id": 98,
+			"name": "Shen",
+			"position": ["top","sup"]
+		},{
+			"id": 102,
+			"name": "Shyvana",
+			"position": ["top","jun"]
+		},{
+			"id": 27,
+			"name": "Singed",
+			"position": ["top"]
+		},{
+			"id":14,
+			"name": "Sion",
+			"position": ["top","jun"]
+		},{
+			"id": 15,
+			"name": "Sivir",
+			"position": ["adc"]
+		},{
+			"id": 72,
+			"name": "Skarner",
+			"position": ["jun"]
+		},{
+			"id": 37,
+			"name": "Sona",
+			"position": ["sup"]
+		},{
+			"id": 16,
+			"name": "Soraka",
+			"position": ["sup"]
+		},{
+			"id": 50,
+			"name": "Swain",
+			"position": ["mid","top"]
+		},{
+			"id": 134,
+			"name": "Syndra",
+			"position": ["mid"]
+		},{
+			"id": 223,
+			"name": "Tahm Kench",
+			"position": ["sup","top"]
+		},{
+			"id": 91,
+			"name": "Talon",
+			"position": ["mid"]
+		},{
+			"id": 44,
+			"name": "Taric",
+			"position": ["sup"]
+		},{
+			"id": 17,
+			"name": "Teemo",
+			"position": ["top"]
+		},{ 
+			"id": 412,
+			"name": "Thresh",
+			"position": ["sup"]
+		},{
+			"id": 18,
+			"name": "Tristana",
+			"position": ["adc"]
+		},{
+			"id": 48,
+			"name": "Trundle",
+			"position": ["top","jun"]
+		},{
+			"id": 23,
+			"name": "Tryndamere",
+			"position": ["top"]
+		},{
+			"id": 4,
+			"name": "Twisted Fate",
+			"position": ["mid"]
+		},{
+			"id": 29,
+			"name": "Twitch",
+			"position": ["adc","jun"]
+		},{
+			"id": 77,
+			"name": "Udyr",
+			"position": ["jun"]
+		},{
+			"id": 6,
+			"name": "Urgot",
+			"position": ["top","adc"]
+		},{
+			"id": 110,
+			"name": "Varus",
+			"position": ["mid","adc"]
+		},{
+			"id": 67,
+			"name": "Vayne",
+			"position": ["adc"]
+		},{
+			"id": 45,
+			"name": "Veigar",
+			"position": ["mid","sup"]
+		},{
+			"id":161,
+			"name": "Vel&#039;Koz",
+			"position": ["mid","sup"]
+		},{
+			"id":254,
+			"name": "Vi",
+			"position": ["jun","top"]
+		},{
+			"id":112,
+			"name": "Viktor",
+			"position": ["mid"]
+		},{
+			"id":8,
+			"name": "Vladimir",
+			"position": ["top","mid"]
+		},{
+			"id":106,
+			"name": "Volibear",
+			"position": ["top","jun"]
+		},{
+			"id": 19,
+			"name": "Warwick",
+			"position": ["jun","top"]
+		},{
+			"id": 62,
+			"name": "Wukong",
+			"position": ["top","jun"]
+		},{
+			"id": 101,
+			"name": "Xerath",
+			"position": ["mid"]
+		},{
+			"id": 5,
+			"name": "Xin Zhao",
+			"position": ["jun"]
+		},{
+			"id": 157,
+			"name": "Yasuo",
+			"position": ["mid","top"]
+		},{
+			"id": 83,
+			"name": "Yorick",
+			"position": ["top"]
+		},{
+			"id": 154,
+			"name": "Zac",
+			"position": ["top","jun"]
+		},{
+			"id": 238,
+			"name": "Zed",
+			"position": ["mid","top"]
+		},{
+			"id": 115,
+			"name": "Ziggs",
+			"position": ["mid"]
+		},{
+			"id": 26,
+			"name": "Zilean",
+			"position": ["sup","mid"]
+		},{
+			"id": 143,
+			"name": "Zyra",
+			"position": ["sup","mid"]
+		},{
+			"id": 420,
+			"name": "Illaoi",
+			"position": ["top","mid"]
+		}]
+}
